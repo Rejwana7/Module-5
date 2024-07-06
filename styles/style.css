@@ -1,0 +1,33 @@
+.parent{
+    padding:25px; 
+     /* padding-left: 35px;;  */
+    /* border:2px solid yellow; */
+     /* padding-right: 35px;;  */
+    background-color: burlywood;
+    /* margin-right: 25px; */
+    /* display:inline; */
+     gap:30px;
+    /* justify-content: center; 
+     x okkho borabor center korbe parent er 
+    justify-content: flex-end; 
+    justify-content: space-between;
+    height:400px;
+     align-items:stretch ; 
+    align-items:center ;
+    flex-direction: column; 
+    flex-wrap:wrap; * */
+} 
+/* align items y okkho boraor ,parent  */
+/* space-between space-around space-evenly */
+/* flex direction column horizontaly kaj kore */
+  .child{
+     /* padding-left: 20px; */
+    border:2px solid green;
+    background: rgb(178,228,229);
+    padding: 20px;
+    font-size: 28px;
+    margin:10px 0;
+    display:inline;
+    /* width:400px; */
+   
+}  
